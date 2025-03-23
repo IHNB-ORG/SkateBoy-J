@@ -1,0 +1,32 @@
+██╗░░██╗███╗░░██╗██████╗░
+██║░░██║████╗░██║██╔══██╗
+███████║██╔██╗██║██████╦╝
+██╔══██║██║╚████║██╔══██╗
+██║░░██║██║░╚███║██████╦╝
+╚═╝░░╚═╝╚═╝░░╚══╝╚═════╝░
+
+ Welcome to the first game of HNB.
+
+ You play the role of a skateboarder named 《Jake》, out of curiosity he went to a place called , and now you have to get out of there, and it's not that easy!
+
+ You have to pass through various difficult and cool obstacles and challenges and get out of this mountain alive.
+
+
+
+* Note: This game has been fully tested, it may be difficult, but it is not impossible to reject.
+
+
+
+° In case of problems or requests, send a message to my private email.
+
+
+
+ (while playing keep in mind that this is my first game and also this game is developed alone)
+
+* Until you become a PRO in this game, you will not see the end of it *
+
+setup password: 『HNB_2000』
+
+
+
+ ○ Good Luck ○
