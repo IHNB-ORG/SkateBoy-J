@@ -4,7 +4,8 @@ The SkateBoy J. is now out for Windows.
 
 Main Poster of the PC version:
 
-![SKBJ PC Poster](https://github.com/user-attachments/assets/5e85224c-234b-41b6-9363-1222a0c8319f)
+
+![SKBJ PC Poster (1)](https://github.com/user-attachments/assets/2ca702b1-1ab8-4bfb-b4ee-9031b885e290)
 
 
 inOnepc Mode:
