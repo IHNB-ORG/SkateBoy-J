@@ -11,3 +11,8 @@ Main Poster of the PC version:
 inOnepc Mode:
 
 ![SKBJpc-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e0e16ce6-32a9-4a56-ade8-4fe05de753f0)
+
+
+SkateBoy J. V1.5 will be released on april 29th
+
+![SKBJ v1 5 Poster](https://github.com/user-attachments/assets/cc9c90bd-d525-4c44-8c48-86c351d8b322)
