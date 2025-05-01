@@ -21,4 +21,4 @@ inOnepc Mode:
 
 The V1.5 Published Poster
 
-![Picsart_25-04-29_15-48-05-445 (1)](https://github.com/user-attachments/assets/e931f762-3acc-46bc-8404-9b276c8d3748)
+![Picsart_25-04-29_15-48-05-445](https://github.com/user-attachments/assets/4421d39a-b919-4e9c-b032-333fbae45924)
