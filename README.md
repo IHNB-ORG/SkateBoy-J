@@ -28,3 +28,9 @@ __________________________________________
 Main Poster of V1.6 the New Update
 
 ![Picsart_25-05-05_21-28-43-887](https://github.com/user-attachments/assets/59bccfcf-a8ba-41ed-aeb0-00d1fb45db19)
+__________________________________________
+
+The Main Poster of the release of V1.7
+
+<img width="6482" height="3642" alt="Skbj-v1 7Poster-01" src="https://github.com/user-attachments/assets/6594ea22-96bb-49e9-9eaf-dc26575e82c6" />
+
