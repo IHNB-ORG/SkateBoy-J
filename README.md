@@ -1,4 +1,4 @@
-🔵 The HNB Office Telegram Channel: @TheIndependentHNB 🔵
+🔵 The HNB Office Telegram Channel: https://t.me/IHNB_ORG 🔵
 
 itch.io Page: https://ihnb-org.itch.io/the-skateboy-j
 
