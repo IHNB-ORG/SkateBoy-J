@@ -38,5 +38,5 @@ __________________________________________
 
 The Main Poster of the release of V1.7
 
-<img width="6482" height="3642" alt="Skbj-v1 7Poster-01" src="https://github.com/user-attachments/assets/6594ea22-96bb-49e9-9eaf-dc26575e82c6" />
+<img width="6482" height="3542" alt="Skbj-v1 7Poster-01" src="https://github.com/user-attachments/assets/6594ea22-96bb-49e9-9eaf-dc26575e82c6" />
 
